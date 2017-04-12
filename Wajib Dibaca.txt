@@ -1,0 +1,14 @@
+pada saat ingin run index.html, ikuti tahap-tahap berikut ini :
+klik kanan pada picture yang terdapat dalam folder yang sama
+klik properties
+kemudian blok dan copy location dari picture tersebut
+klik kanan pada index.html
+kemudian buka dengan bricket
+paste location picture ke setiap bagian html yang menggunakan gambar seperti <img src=".......">
+kemudian tambahkan nama file gambar tersebut setelah hasil paste, contohnya <img src="G:\Semester 4\Pemrograman Berbasis Web\10151012_Tugas_3_My Portfolio\hero.png">
+lakukan tahap ini ke setiap program yang menggunakan picture.
+setelah itu silahkan di save (ctrl-S)
+dan klik kiri 2x/enter index.html
+dan lihatlah hasilnya.
+
+>> Have a Nice Day :-)
